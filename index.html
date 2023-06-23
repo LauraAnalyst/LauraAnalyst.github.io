@@ -78,8 +78,8 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://rpubs.com/zhanayla/1056764" class="image featured"><img src="images/Vehicles.png" alt="" /></a>
-								<h3><a href="https://rpubs.com/zhanayla/1056764">CO2 Emissions in Fuel Vehicles</a></h3>
+								<a href="https://lauraanalyst.github.io/CO2-Emissions-in-Fuel-Vehicles/" class="image featured"><img src="images/Vehicles.png" alt="" /></a>
+								<h3><a href="https://lauraanalyst.github.io/CO2-Emissions-in-Fuel-Vehicles/">CO2 Emissions in Fuel Vehicles</a></h3>
 								<p>In this R-based project, we utilized Logistic Regression, Discriminant Analysis, Decision Tree, and Multinomial Regression to identify the models</p>
 							</article>
 						</div>
