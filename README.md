@@ -85,8 +85,8 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/Stock.png" alt="" /></a>
-								<h3><a href="#">Linear regression for Stock Price</a></h3>
+								<a href="https://lauraanalyst.github.io/Multiple-Linear-Regression-for-Stock-Price/" class="image featured"><img src="images/Stock.png" alt="" /></a>
+								<h3><a href="https://lauraanalyst.github.io/Multiple-Linear-Regression-for-Stock-Price/">Linear regression for Stock Price</a></h3>
 								<p>An R-based project using multiple linear regression to analyze the impact of selected factors on stock prices of National Bank of Canada</p>
 							</article>
 						</div>
