@@ -66,7 +66,7 @@
 				<div class="container">
 					<header>
 						<h2>Here’s some stuff I made recently.</h2>
-						<p>Explore the projects I have undertaken, demonstrating my expertise</p>
+						<p>Explore the projects I have undertaken, demonstrating my expertise in Python, R and SQL</p>
 					</header>
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
